@@ -38,3 +38,44 @@ Create Vite react app
 Create back-end,front-end folders
 
 Download node modules file manually
+# Gameplay Instructions
+Start the Game:
+
+Upon starting, you'll see a 5x5 grid.
+
+Click a cell to answer a trivia question.
+
+Answer Questions:
+
+Questions will appear with multiple-choice answers.
+
+Select the correct answer to claim the cell.
+
+Check Progress:
+
+Your claimed cells are marked in green.
+
+The computer's claimed cells are marked in purple.
+
+Endgame:
+
+The game ends when a winning condition is met.
+
+Restart the game anytime with the "New Game" button.
+
+# Technologies Used
+Frontend:
+
+React.js
+
+CSS Modules for styling
+
+Backend:
+
+Node.js with Express.js
+
+MongoDB for storing game state
+
+Trivia API:
+
+The Trivia API
